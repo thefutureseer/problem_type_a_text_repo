@@ -1,1 +1,0 @@
-Security vulnerabilities: The app may be vulnerable to hacking or other security threats.

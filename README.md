@@ -5,7 +5,7 @@
 # Plus more general problems that can arise when developing software
 
 CREATE THESE FILES INSIDE OF THESE FOLDERS USING TERMINAL AUTOMATION:
-Create the array:
+Create the array (note that you can inclose each name in quotes if you want to add special characters):
 folder_names=(compatibility_issues user_experience_problems accessibility_issues requirements_issues design_problems integration_issues scalability_issues maintenance_issues documentation_problems collaboration_issues time_and_budget_constraints legal_issues quality_assurance_issues)
 
 Loop over the array:
@@ -13,3 +13,4 @@ for i in ${!folder_names[@]}; do
   mkdir ${folder_names[$i]}
   touch ${folder_names[$i]}/README.md
 done
+

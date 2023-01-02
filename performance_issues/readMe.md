@@ -1,1 +1,0 @@
-Performance issues: The app may be slow or unresponsive, or it may drain a user's battery quickly.

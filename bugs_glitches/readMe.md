@@ -1,1 +1,0 @@
-Bugs and glitches: As with any software, a full stack application may contain bugs or glitches that cause it to behave unexpectedly or fail to work properly.
