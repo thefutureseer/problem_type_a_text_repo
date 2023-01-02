@@ -1,3 +1,4 @@
+#Done in Bash
 #Create these folders with these files inside of the folders and 
 #the readme info on the readme file with automation. 
 #Automating tasks and streamlining the development process. 
